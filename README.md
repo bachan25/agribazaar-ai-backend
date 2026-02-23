@@ -149,6 +149,11 @@ agribazaar-ai-backend/
 
 ## License
 
-This project is part of the AgriBazaar AI initiative.
+This project is part of the [AgriBazaar AI](https://github.com/bachan25/agribazaar-ai-service.git) initiative. See [LICENSE](https://github.com/bachan25/agribazaar-ai-backend/blob/main/LICENSE)
+
+---
+
+### AgriBazaar AI — Built with ❤️ for Indian farmers, powered by Elasticsearch.
+
 
 
